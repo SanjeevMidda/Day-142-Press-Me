@@ -1,0 +1,11 @@
+.changeColor{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+*{
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+}
